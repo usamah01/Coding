@@ -1,0 +1,15 @@
+class helloInitials {
+        public static void main(String[] args) {
+                System.out.println("-----------------------------------------");
+		System.out.println("My initials");
+		System.out.println("* * * *    * * * *        * * * *       ");
+                System.out.println("*     *    *     *	      		    ");
+		System.out.println("*     *    *     *       *  ***   *     ");
+		System.out.println("*     *    *     *         *   *	    ");
+		System.out.println("*     *    *     *      *  *****   *    ");
+		System.out.println("*     *    *     *     		    ");
+		System.out.println("*	  *    *     *	   *  *     *   *   ");
+		System.out.println(" *              *    		    ");
+		System.out.println("   * * * * * *        * * *      * * *  ");
+        }
+}
